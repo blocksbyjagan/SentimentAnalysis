@@ -1,0 +1,6 @@
+streamlit
+pandas
+GoogleNews
+nltk
+vaderSentiment
+matplotlib
